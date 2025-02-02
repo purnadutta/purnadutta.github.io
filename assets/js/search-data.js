@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/purnad/";
     },
-  },{id: "nav-submenus",
-          title: "submenus",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/purnad/_pages/dropdown/";
-          },
-        },{id: "post-a-post-with-image-galleries",
+  },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -368,16 +361,16 @@ ninja.data = [{
           window.location.href = "/purnad/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-daad-wise-summer-intern-at-technical-university-berlin-3-month-summer-internship",
+          title: 'DAAD-WISE summer intern at Technical University, Berlin   3-month summer internship',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/purnad/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-visiting-student-for-a-year-at-the-institute-of-mathematical-sciences-chennai",
+          title: 'Visiting student for a year at The Institute of Mathematical Sciences, Chennai',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

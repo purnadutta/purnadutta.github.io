@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/purnad/";
     },
-  },{id: "post-a-post-with-image-galleries",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/purnad/cv/";
+          },
+        },{id: "nav-miscellaneous",
+          title: "Miscellaneous",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/purnad/misc/";
+          },
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -361,15 +375,13 @@ ninja.data = [{
           window.location.href = "/purnad/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-daad-wise-summer-intern-at-technical-university-berlin-3-month-summer-internship",
-          title: 'DAAD-WISE summer intern at Technical University, Berlin   3-month summer internship',
+    },{id: "news-daad-wise-summer-intern-at-technical-university-berlin",
+          title: 'DAAD-WISE summer intern at Technical University, Berlin',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-attendee-at-instructional-school-on-algorithmic-graph-theory-at-indian-institute-of-technology-indore",
+          title: 'Attendee at instructional school on Algorithmic Graph Theory at Indian Institute of Technology,...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/purnad/news/announcement_2/";
-            },},{id: "news-visiting-student-for-a-year-at-the-institute-of-mathematical-sciences-chennai",
+          section: "News",},{id: "news-visiting-student-for-a-year-at-the-institute-of-mathematical-sciences-chennai",
           title: 'Visiting student for a year at The Institute of Mathematical Sciences, Chennai',
           description: "",
           section: "News",},{id: "projects-project-1",

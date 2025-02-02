@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/purnad/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/purnad/cv/";
-          },
-        },{id: "nav-miscellaneous",
+  },{id: "nav-miscellaneous",
           title: "Miscellaneous",
           description: "",
           section: "Navigation",
@@ -383,6 +376,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-visiting-student-for-a-year-at-the-institute-of-mathematical-sciences-chennai",
           title: 'Visiting student for a year at The Institute of Mathematical Sciences, Chennai',
+          description: "",
+          section: "News",},{id: "news-attended-fall-workshop-on-computational-geometry-at-tufts-university-medford-ma",
+          title: 'Attended Fall Workshop on Computational Geometry at Tufts University, Medford, MA.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

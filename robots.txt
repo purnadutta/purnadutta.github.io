@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://purnadutta.github.io/purnad/sitemap.xml
+User-agent: * Disallow: Sitemap: https://purnadutta.github.io/sitemap.xml

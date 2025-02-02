@@ -7,5 +7,3 @@ related_posts: false
 
 DAAD-WISE summer intern at [Technical University, Berlin](https://www.tu.berlin/en/)
 
----
-3-month summer internship

@@ -28,6 +28,7 @@ Other useful resources:
 - [UIUC Fellowship Finder](https://apps.grad.illinois.edu/fellowship-finder/)
 - [Number Gossip](http://www.numbergossip.com/)
 - [IISER alumni on world map](https://www.google.com/maps/d/u/0/embed?mid=1Hrc_uk626nrvlIpqq2k4IRSQ8jXLIhs&ehbc=2E312F&noprof=1&ll=45.48582738833813%2C-8.99666548391528&z=3)
+- [SafeToC](https://safetoc.org/)
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 

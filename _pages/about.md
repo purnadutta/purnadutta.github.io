@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a third-year PhD student in the [theoretical computer science group](https://groups.cs.umass.edu/theory/) at University of Massachusetts Amherst. I am very fortunate to be advised by [Prof. Hung Le](https://hunglvosu.github.io/) and [Prof. Andrew McGregor](https://people.cs.umass.edu/~mcgregor/).
+Hi, I am a third-year PhD student in the [theoretical computer science group](https://groups.cs.umass.edu/theory/) at University of Massachusetts Amherst. I am very fortunate to be advised by [Prof. Hung Le](https://hunglvosu.github.io/) and [Prof. Andrew McGregor](https://people.cs.umass.edu/~mcgregor/). I work on graph algorithms, streaming algorithms, and have worked on similarity search in large datasets.
 
 I finished BS and MS in Mathematics and Computer Science from [Indian Institute of Science Education and Research, Berhampur](https://www.iiserbpr.ac.in/). I pursued my MS thesis project in theoretical computer science under the guidance of [Prof. Saket Saurabh](https://sites.google.com/view/sakethome) at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/).
 

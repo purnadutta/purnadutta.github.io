@@ -1342,3 +1342,63 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+
+/* Homepage portrait and social icons */
+.profile.homepage-profile {
+  width: 180px;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+
+  figure {
+    margin-bottom: 0.75rem;
+  }
+
+  img {
+    display: block;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    border: 3px solid var(--global-divider-color);
+    padding: 4px;
+    background-color: var(--global-bg-color);
+    box-sizing: border-box;
+  }
+
+  .social .contact-icons {
+    display: flex;
+    justify-content: center;
+    gap: 0.75rem;
+    font-size: 1.6rem;
+  }
+}
+
+/* Space between homepage sections */
+.homepage-section {
+  margin-top: 2rem;
+}
+
+/* Teaching entries */
+#teaching .teaching-entry {
+  margin-bottom: 1.5rem;
+
+  h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+  }
+
+  p {
+    margin-bottom: 0.35rem;
+  }
+}
+
+/* Center the portrait on narrow screens */
+@media (max-width: 575.98px) {
+  .profile.homepage-profile {
+    float: none !important;
+    margin: 0 auto 1.5rem;
+  }
+}
